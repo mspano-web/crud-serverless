@@ -21,6 +21,13 @@ ___
 
 ___
 
+## Proyectos que conforman la solución / Projects that make up the solution
+
+* [crud-serverless](https://github.com/mspano-web/crud-serverless)  (ACTUAL/CURRENT)
+* [hr-admin](https://github.com/mspano-web/hr-admin)  
+
+___
+
 ## Información del proyecto / Project information
 
 * Developer Web MS - [Youtube](en construccion) - (YOUTUBE)
