@@ -1,0 +1,11 @@
+{
+  "TableName": "employees",
+  "KeySchema": [{ "AttributeName": "employeeId", "KeyType": "HASH" }],
+  "AttributeDefinitions": [
+    { "AttributeName": "employeeId", "AttributeType": "N" }
+  ],
+  "ProvisionedThroughput": {
+    "ReadCapacityUnits": 5,
+    "WriteCapacityUnits": 5
+  }
+}

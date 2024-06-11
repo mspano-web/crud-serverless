@@ -1,0 +1,8 @@
+METHOD: POST
+URI: http://localhost:3000/dev/employees/4
+JSON:
+{
+  "firstName": "Alada",
+  "lastName": "Siverlay",
+  "position": "Sales"
+}

@@ -1,0 +1,2 @@
+METHOD: DELETE
+URI: http://localhost:3000/dev/employees/4
